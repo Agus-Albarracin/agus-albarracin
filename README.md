@@ -1,10 +1,7 @@
 
 
 ###                       AGUSTÍN ALBARRACÍN    
-<div align="center">
-<img src="https://res.cloudinary.com/do1hcqjpe/image/upload/v1710814924/xbyhx179drhjoxhxg6ed.jpg" align="center" height="300" width="300" />
-</div>  
-  
+
 
 ### <div align="center">¡Hola! Soy un developer full stack de tiempo completo 👨🏻‍💻Trabajo en proyectos personales para mejorar skills.</div>  
   
