@@ -3,7 +3,7 @@
 ### <div align="center"> AGUSTÍN ALBARRACÍN  </div>  
 
 
-### <div align="center">¡Hola! Soy un developer full stack de tiempo completo 👨🏻‍💻</br>Trabajo en proyectos personales para mejorar skills.</div>  
+### <div align="center">¡Hola! Soy un developer front-back en continua capacitación para convertirme en un Full Stack 👨🏻‍💻</br>Trabajo en proyectos personales para mejorar skills.</div>  
   
 
 - 🧩 Recientemente terminé de trabajar en una eCommerce [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
