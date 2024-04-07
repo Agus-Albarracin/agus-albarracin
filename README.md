@@ -1,15 +1,15 @@
 
 
-### <div align="center"> AGUSTÍN ALBARRACÍN  </div>  
+### <div align="center">¡Hola! Soy AGUSTÍN ALBARRACÍN  </div>  
 
 
-### <div align="center">¡Hola! Soy un developer front-back en continua capacitación para convertirme en un Full Stack 👨🏻‍💻</br>Trabajo en proyectos personales para mejorar skills.</div>  
+### <div align="center"> Un developer front-back en continua capacitación para convertirme en un Full Stack 👨🏻‍💻</br>Trabajo en proyectos personales para mejorar skills.</div>  
   
 
 - 🧩 Recientemente terminé de trabajar en una eCommerce [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
   
 
-- 🌱 Actualmente estoy enfocándome en el back-end.  
+- 🌱 Actualmente estoy enfocándome en la arquitectura de software y como aprovechar al máximo los recursos de React.  
   
 
 - ❓ Puedo ayudarte con cualquier tecnología de mi perfil.  
