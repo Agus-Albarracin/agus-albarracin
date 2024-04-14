@@ -3,9 +3,9 @@
 ### <div align="center">Hello! I'm AGUSTÍN ALBARRACÍN  </div>  
 
 
-### <div align="center">a front-end and back-end developer continuously learning to become a Full Stack developer 👨🏻‍💻. I work on personal projects to improve my skills.</div>  
+### <div align="center">a front-end and back-end developer continuously learning to become a Full Stack developer 👨🏻‍💻<br> I work on personal projects to improve my skills.</div>  
 
-
+<br> <br>
 
 - 🧩 Recently, I finished working on an eCommerce project called uuid-store [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
   
