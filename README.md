@@ -1,21 +1,20 @@
 
 
-### <div align="center">¡Hola! Soy AGUSTÍN ALBARRACÍN  </div>  
+### <div align="center">Hello! I'm AGUSTÍN ALBARRACÍN  </div>  
 
 
-### <div align="center"> Un developer front-back en continua capacitación para convertirme en un Full Stack 👨🏻‍💻</br>Trabajo en proyectos personales para mejorar skills.</div>  
+### <div align="center">a front-end and back-end developer continuously learning to become a Full Stack developer 👨🏻‍💻. I work on personal projects to improve my skills.</div>  
+
+
+
+- 🧩 Recently, I finished working on an eCommerce project called uuid-store [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
   
-
-- 🧩 Recientemente terminé de trabajar en una eCommerce [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
+- 🌱 Currently, I'm focusing on software architecture and how to make the most of React resources.  
   
+- ❓ I can help you with any technology within my profile.
 
-- 🌱 Actualmente estoy enfocándome en la arquitectura de software y como aprovechar al máximo los recursos de React.  
+- ⚡ Fun fact: I always think that things can be further modularized.
   
-
-- ❓ Puedo ayudarte con cualquier tecnología de mi perfil.  
-  
-
-- ⚡ Fun fact: Siempre pienso que se puede modularizar más.  
   
 
 <br/>  
