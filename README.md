@@ -7,13 +7,12 @@
 
 <br> <br>
 
-- 🧩 Recently, I finished working on an eCommerce project called uuid-store [uuid-store](https://github.com/Agus-Albarracin/uuid-store).  
+- 🧩 Recently, I finished working on an library [cactus-ren](https://www.npmjs.com/package/google-cactus).  
   
 - 🌱 Currently, I'm focusing on software architecture and how to make the most of React resources.  
   
 - ❓ I can help you with any technology within my profile.
 
-- ⚡ Fun fact: I always think that things can be further modularized.
   
   
 
