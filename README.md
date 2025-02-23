@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hello! I'm AGUSTÍN ALBARRACÍN  </div>  
+### <div align="center">Hola!, soy AGUSTÍN ALBARRACÍN  </div>  
 
 
 ### <div align="center">Desarrollador Full Stack Ssr con +3 años de experiencia. 👨🏻‍💻<br> Trabajando en proyectos para empresas globales con datos masivos y sensibles.</div>  
