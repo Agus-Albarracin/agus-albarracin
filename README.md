@@ -3,15 +3,15 @@
 ### <div align="center">Hello! I'm AGUSTÍN ALBARRACÍN  </div>  
 
 
-### <div align="center">a React developer continuously learning to become a Full Stack developer 👨🏻‍💻<br> I work on personal projects to improve my skills.</div>  
+### <div align="center">Desarrollador Full Stack Ssr con +3 años de experiencia. 👨🏻‍💻<br> Trabajando en proyectos para empresas globales con datos masivos y sensibles.</div>  
 
 <br> <br>
 
-- 🧩 Recently, I finished working on an library [cactus-ren](https://www.npmjs.com/package/google-cactus).  
+- 🧩 Recientemente, terminé de trabajar en plataformas de Apuestas, con panel de administración, gestión interna de proveedores, trasacciones de depósitos/retiros y sala de juegos para usuarios con soporte de chat en línea. Los proyectos están restringidas en mi perfil por politica de privacidad de la empresa actual para la que trabajo.
   
-- 🌱 Currently, I'm focusing on software architecture and how to make the most of React resources.  
+- 🌱 Actualmente, estoy enfocado en el rendimiento entre las arquitecturas de Node.js y varias arquitecturas en React.  
   
-- ❓ I can help you with any technology within my profile.
+- ❓ Puedo ayudarte con cualquier técnologia de mi perfil: 
 
   
   
@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mi Skill Set  
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
