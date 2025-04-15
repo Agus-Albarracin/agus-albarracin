@@ -7,7 +7,7 @@
 
 <br> <br>
 
-- 🧩 Recientemente, terminé de trabajar en plataformas de apuestas, con panel de administración, gestión interna de proveedores, trasacciones de depósitos/retiros y sala de juegos para usuarios con soporte de chat en línea. Los proyectos están restringidos en mi perfil por politica de privacidad de la empresa que trabajo.
+- 🧩 Recientemente, terminé de trabajar en plataformas de apuestas, con panel de administración, gestión interna de proveedores, trasacciones de depósitos/retiros y sala de juegos para usuarios con soporte de chat en línea.
   
 - 🌱 Actualmente, estoy enfocado en el rendimiento de las arquitecturas usando stack MERN y Docker.  
   
