@@ -9,7 +9,7 @@
 
 - 🧩 Recientemente, terminé de trabajar en plataformas de apuestas, con panel de administración, gestión interna de proveedores, trasacciones de depósitos/retiros y sala de juegos para usuarios con soporte de chat en línea.
   
-- 🌱 Actualmente, estoy enfocado en el rendimiento de la APIs con Node.js y React.js.  
+- 🌱 Actualmente, estoy enfocado en el rendimiento de las APIs con Node.js y React.js.  
   
 - ❓ Puedo ayudarte con cualquier técnologia de mi perfil: 
 
