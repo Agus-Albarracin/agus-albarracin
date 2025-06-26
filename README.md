@@ -1,9 +1,9 @@
 
 
-### <div align="center">Hola!, soy AGUSTÍN ALBARRACÍN  </div>  
+### <div align="center">Hola!, soy AGUSTÍN ALBARRACÍN, un Full Stack JavaScript... </div>  
 
 
-### <div align="center">Desarrollador Full Stack con +4 años de experiencia. 👨🏻‍💻<br> Trabajando en proyectos para empresas globales con datos masivos y sensibles.</div>  
+### <div align="center">Y desarrollo soluciones SaaS basadas en arquitecturas cliente/servidor, diseñando APIs RESTful y canales WebSockets, aplicando el patrón MVC en aplicaciones monolíticas.</div>  
 
 <br> <br>
 
