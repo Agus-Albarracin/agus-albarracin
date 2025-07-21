@@ -1,9 +1,9 @@
 
 
-### <div align="center">Hola!, soy AGUSTÍN ALBARRACÍN, un Full Stack JavaScript... </div>  
+### <div align="center">Hola!, soy Agus Albarracín, un Full Stack JavaScript... </div>  
 
 
-### <div align="center">Y desarrollo soluciones SaaS basadas en arquitecturas cliente/servidor, diseñando APIs RESTful y canales WebSockets, aplicando el patrón MVC en aplicaciones monolíticas.</div>  
+### <div align="center">Y desarrollo soluciones SaaS basadas en arquitecturas cliente/servidor, diseñando APIs RESTful y canales WebSockets, aplicando el patrón MVC en aplicaciones monolíticas y microservicios.</div>  
 
 <br> <br>
 
