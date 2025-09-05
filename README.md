@@ -3,13 +3,13 @@
 ### <div align="center">Hola!, soy Agus Albarracín, un Full Stack JavaScript... </div>  
 
 
-### <div align="center">Y desarrollo soluciones SaaS basadas en arquitecturas cliente/servidor, diseñando APIs RESTful y canales WebSockets, aplicando el patrón MVC en aplicaciones monolíticas y microservicios.</div>  
+### <div align="center">Y desarrollo soluciones SaaS, diseñando interfaces webs, APIs RESTful y canales WebSockets en aplicaciones monolíticas y microservicios.</div>  
 
 <br> <br>
 
 - 🧩 Recientemente, terminé de trabajar en plataformas de apuestas, con panel de administración, gestión interna de proveedores, trasacciones de depósitos/retiros y sala de juegos para usuarios con soporte de chat en línea.
   
-- 🌱 Actualmente, estoy enfocado en el rendimiento de las APIs con Node.js y React.js.  
+- 🌱 Actualmente, desarrollo una aplicación en el área de salud que opera en todo el país.  
   
 - ❓ Puedo ayudarte con cualquier técnologia de mi perfil: 
 
